@@ -7,5 +7,5 @@ The notebook, ClusterPlot.ipynb, is supplied with some input and output example 
 To run the notebook, a few requirmetns will need to be installed:
 
 Plotly and Ipywidgets.
-Biopython 
-Pandas 
+Biopython. 
+Pandas.
